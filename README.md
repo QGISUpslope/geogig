@@ -1,7 +1,7 @@
 GeoGig - Geospatial Distributed Version Control System
 ======================================================
 
-This is a copy of the [GeoGig](https://github.com/locationtech/geogig) project.  This version works with the [GeoGig QGIS Plugins](https://github.com/ngageoint/geogig-qgis-client-plugin) and [GeoGig WebAPI](https://github.com/ngageoint/geogig-web).  The QGIS plugin and WebAPI are NGA funded as part of the GEOINT Services program
+This is a copy of the [GeoGig](https://github.com/locationtech/geogig) project.  This version works with the [GeoGig QGIS Plugins](https://github.com/ngageoint/geogig-qgis-client-plugin) and [GeoGig WebAPI](https://github.com/ngageoint/geogig-web).  The QGIS plugin and WebAPI are NGA funded as part of the GEOINT Services program. The GeoGig Server Plugin/Extension, which is included in the [GeoGig core project](https://https://github.com/ngageoint/geogig), was also funded by the NGA/GEOINT Services program.
 
 Geogig is a middleware tool for distributed management of geospatial data.  Geogig uses common git workflows with branching.  Users are able to import raw geospatial data (Shapefiles, PostGIS, SpatiaLite, ect) in to a repository where every change to the data is tracked.
 
